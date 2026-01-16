@@ -12,7 +12,7 @@ This project is a hardware-based alarm system designed as a final project for EE
 
     Manual Interaction: Includes dual-button input to toggle between system states (Active/Standby).
 
-![Alt Text](devices-project-circuit.JPG)
+![Alt Text](devices-project.JPG)
 
 📐 Circuit Theory & Components
 
@@ -27,6 +27,8 @@ This project is a hardware-based alarm system designed as a final project for EE
         GREEN: System Armed.
 
         RED1/BLUE: Active Alarm (Flickering).
+
+![Alt Text](devices-project-circuit.JPG)
 
 📋 Component List
 
