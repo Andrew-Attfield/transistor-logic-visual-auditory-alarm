@@ -12,6 +12,8 @@ This project is a hardware-based alarm system designed as a final project for EE
 
     Manual Interaction: Includes dual-button input to toggle between system states (Active/Standby).
 
+    ![Alt Text](devices-project-circuit.JPG)
+
 📐 Circuit Theory & Components
 
     Transistors (Q1-Q4): Functioning in the saturation and cutoff regions to act as digital switches.
